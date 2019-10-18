@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-class ListUsers extends Component {
+class ListProfiles extends Component {
   render() {
     return (
       <ol className='user-list'>
