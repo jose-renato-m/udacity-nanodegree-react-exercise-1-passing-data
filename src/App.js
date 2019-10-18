@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import logo from './logo.svg';
+import ListUsers from './ListUsers.js';
 
 /*
 Use React and the data below to display a list of users alongside their favorite movies.
