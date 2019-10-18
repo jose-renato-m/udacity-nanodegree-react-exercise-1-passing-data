@@ -10,4 +10,4 @@ class ListUsers extends Component {
   }
 }
 
-export default ListUsers
+export default ListProfiles
